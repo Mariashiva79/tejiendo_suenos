@@ -1,6 +1,6 @@
 # Tejiendo Sueños
 
-**[Puedes ver la web en vivo aquí](https://mariashiva79.github.io/tejiendo-suenos/)**
+**[Puedes ver la web en vivo aquí](https://Mariashiva79.github.io/tejiendo-suenos/)**
 
 Proyecto de página web estática creado como parte del bootcamp "Albañiles Digitales". "Tejiendo Sueños" es una web dedicada a mostrar proyectos de crochet, un hobby que combina la relajación con la creación de objetos útiles y bonitos.
 
